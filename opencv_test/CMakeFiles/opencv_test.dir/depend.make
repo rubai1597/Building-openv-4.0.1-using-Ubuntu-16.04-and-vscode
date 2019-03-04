@@ -33,6 +33,16 @@ CMakeFiles/opencv_test.dir/main.cpp.o: /usr/local/include/opencv4/opencv2/core/t
 CMakeFiles/opencv_test.dir/main.cpp.o: /usr/local/include/opencv4/opencv2/core/utility.hpp
 CMakeFiles/opencv_test.dir/main.cpp.o: /usr/local/include/opencv4/opencv2/core/version.hpp
 CMakeFiles/opencv_test.dir/main.cpp.o: /usr/local/include/opencv4/opencv2/core/vsx_utils.hpp
+CMakeFiles/opencv_test.dir/main.cpp.o: /usr/local/include/opencv4/opencv2/cudaarithm.hpp
+CMakeFiles/opencv_test.dir/main.cpp.o: /usr/local/include/opencv4/opencv2/cudabgsegm.hpp
+CMakeFiles/opencv_test.dir/main.cpp.o: /usr/local/include/opencv4/opencv2/cudacodec.hpp
+CMakeFiles/opencv_test.dir/main.cpp.o: /usr/local/include/opencv4/opencv2/cudafeatures2d.hpp
+CMakeFiles/opencv_test.dir/main.cpp.o: /usr/local/include/opencv4/opencv2/cudafilters.hpp
+CMakeFiles/opencv_test.dir/main.cpp.o: /usr/local/include/opencv4/opencv2/cudaimgproc.hpp
+CMakeFiles/opencv_test.dir/main.cpp.o: /usr/local/include/opencv4/opencv2/cudaobjdetect.hpp
+CMakeFiles/opencv_test.dir/main.cpp.o: /usr/local/include/opencv4/opencv2/cudaoptflow.hpp
+CMakeFiles/opencv_test.dir/main.cpp.o: /usr/local/include/opencv4/opencv2/cudastereo.hpp
+CMakeFiles/opencv_test.dir/main.cpp.o: /usr/local/include/opencv4/opencv2/cudawarping.hpp
 CMakeFiles/opencv_test.dir/main.cpp.o: /usr/local/include/opencv4/opencv2/dnn.hpp
 CMakeFiles/opencv_test.dir/main.cpp.o: /usr/local/include/opencv4/opencv2/dnn/dict.hpp
 CMakeFiles/opencv_test.dir/main.cpp.o: /usr/local/include/opencv4/opencv2/dnn/dnn.hpp
