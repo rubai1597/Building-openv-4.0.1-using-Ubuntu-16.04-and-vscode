@@ -1,0 +1,3 @@
+/home/rubai/Desktop/Linux/opencv_test/CMakeFiles/edit_cache.dir
+/home/rubai/Desktop/Linux/opencv_test/CMakeFiles/rebuild_cache.dir
+/home/rubai/Desktop/Linux/opencv_test/CMakeFiles/opencv_test.dir
