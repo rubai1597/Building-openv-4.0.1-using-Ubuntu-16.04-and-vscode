@@ -7,7 +7,7 @@ Ubuntu 16.04와 vscode를 사용하여 opencv build 하기
 * Visual Studio Code 1.31 (Extensions: C/C++, C++ Intellisense, CMake, CMake Tools, Korean Language Pack for Visual Studio Code, and Python)
 * Cmake 3.5.1
 * Anaconda with Python 3.7
-* no CUDA
+* CUDA 9.0 & cuDNN 7.5
 
 ## 2. 기존 OpenCV 제거
 기존 opencv가 설치되어 있다면 제거. 설치 여부는 다음 코드로 확인
@@ -72,6 +72,10 @@ cmake를 이용하여 opencv 컴파일 설정. Python package들은 포함하지
 -D BUILD_NEW_PYTHON_SUPPORT=OFF \
 -D OPENCV_GENERATE_PKGCONFIG=ON \
 ../
+```
+CUDA도 build할 경우 '../' 위에 다음을 추가
+```
+-D WITH_CUDA=ON \
 ```
 
 에러가 발생하지 않았다면 사용가능한 코어 수를 확인하고 컴파일 시작
